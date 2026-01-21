@@ -15,8 +15,7 @@ Component often used are Generators, transformers, motors, power lines.
 
 Electronics: Focus on Controlling and processing electrical signals and it is usually low current and low voltage. it purporse is making devices “smart” and functional. component used are Resistors, diodes, transistors, ICs, microcontrollers and typical applications are Computers, smartphones, IoT devices, control systems.
 
-## 2. Choose a specific electronic device or system and explain how electronics contribute to its
-functionality. Highlight the role of electronic components.
+## 2. Choose a specific electronic device or system and explain how electronics contribute to its functionality. Highlight the role of electronic components.
 
 ### Automatic Washing Machine
 An automatic washing machine is an example of how electronics contribute to the intelligent control and efficient operation of a device.
