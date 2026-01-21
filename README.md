@@ -2,8 +2,7 @@
 # Assignment Title : Review of Circuits and Systems 
 # Name: Naimot Yekini 
 
-## 1. Define electricity and electronics in your own words. Highlight the key differences between
-the two terms.
+## 1. Define electricity and electronics in your own words. Highlight the key differences between the two terms.
 
 Electricity is the form of energy that comes from the movement of electric charges (usually electrons) through a conductor. It is mainly concerned with the generation, transmission, and use of electrical power to do work such as lighting, heating, or running motors.
 
@@ -19,13 +18,13 @@ Electronics: Focus on Controlling and processing electrical signals and it is us
 ## 2. Choose a specific electronic device or system and explain how electronics contribute to its
 functionality. Highlight the role of electronic components.
 
-Automatic Washing Machine
+### Automatic Washing Machine
 An automatic washing machine is an example of how electronics contribute to the intelligent control and efficient operation of a device.
 
 How electronics contribute to its functionality
 Electronics allow the washing machine to automatically control washing cycles, water levels, timing, and motor speed based on the program selected by the user. Instead of relying on manual control, electronic circuits help process inputs and make decisions that ensure proper washing, rinsing, and spinning.
 
-The Roles of electronic components
+### The Roles of electronic components
 
 Microcontroller (Control Board):
 This is the “brain” of the washing machine. It receives input from buttons and sensors, processes the information, and controls all operations such as wash time, spin speed, and sequence of actions.
@@ -54,7 +53,8 @@ Electronics make the washing machine automatic, efficient, and user-friendly. In
 ## Scope of Electricity
 
 Electricity deals with the generation, transmission, distribution, and utilization of electrical power. Its main goal is to produce and deliver energy efficiently for practical use.
-Areas within the scope of electricity
+
+### Areas within the scope of electricity
 
 - Power generation (hydroelectric, thermal, solar, wind)
 
@@ -70,7 +70,7 @@ Examples of applications
 
 - Electric motors in fans, pumps, and elevators
 
-Scope of Electronics
+### Scope of Electronics
 
 Electronics focuses on the control, processing, and manipulation of electrical signals using electronic components. It deals mostly with low-power, high-speed, and information-based systems.
 
