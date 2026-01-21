@@ -2,7 +2,7 @@
 # Assignment Title : Review of Circuits and Systems 
 # Name: Naimot Yekini 
 
-1. Define electricity and electronics in your own words. Highlight the key differences between
+## 1. Define electricity and electronics in your own words. Highlight the key differences between
 the two terms.
 
 Electricity is the form of energy that comes from the movement of electric charges (usually electrons) through a conductor. It is mainly concerned with the generation, transmission, and use of electrical power to do work such as lighting, heating, or running motors.
@@ -10,13 +10,13 @@ Electricity is the form of energy that comes from the movement of electric charg
 Electronics is the branch of science and engineering that deals with controlling and manipulating electrical signals using electronic components like resistors, capacitors, diodes, and transistors. It focuses on processing information, signals, and data rather than delivering raw power.
 
 
-Key Differences Between Electricity and Electronics
+### Key Differences Between Electricity and Electronics
 Electricity: Focus on Producing and delivering electrical power, Usually high current and high voltage, it purpose is to Power devices and systems. 
 Component often used are Generators, transformers, motors, power lines. 
 
 Electronics: Focus on Controlling and processing electrical signals and it is usually low current and low voltage. it purporse is making devices “smart” and functional. component used are Resistors, diodes, transistors, ICs, microcontrollers and typical applications are Computers, smartphones, IoT devices, control systems.
 
-2. Choose a specific electronic device or system and explain how electronics contribute to its
+## 2. Choose a specific electronic device or system and explain how electronics contribute to its
 functionality. Highlight the role of electronic components.
 
 Automatic Washing Machine
@@ -51,7 +51,7 @@ Summary
 
 Electronics make the washing machine automatic, efficient, and user-friendly. Instead of just supplying power (electricity), electronics control, monitor, and optimize how that power is used to wash clothes effectively.
 
-Scope of Electricity
+## Scope of Electricity
 
 Electricity deals with the generation, transmission, distribution, and utilization of electrical power. Its main goal is to produce and deliver energy efficiently for practical use.
 Areas within the scope of electricity
@@ -84,7 +84,7 @@ Areas Covered
 
 - Computer and information technology
 
-## Applications of Electronics
+### Applications of Electronics
 
 - Computers and smartphones
 
