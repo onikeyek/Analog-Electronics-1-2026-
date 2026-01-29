@@ -13,7 +13,7 @@ At a forward current of 10 mA, the diode has a forward voltage of about 0.7–1 
 **Maximum reverse voltage:** Repetitive peak reverse voltage VRRM = 100 V
 This show the highest reverse voltage the diode can withstand repeatedly without entering breakdown or getting damaged.
 
-*Maximum forward current:** Forward continuous current IF = 300 mA   Average forward current IF(AV) = 150 mA
+**Maximum forward current:** Forward continuous current IF = 300 mA   Average forward current IF(AV) = 150 mA
 This specifies the maximum current the diode can safely conduct in the forward direction during normal operation.
 
 **Operating temperature range:** Junction temperature up to 175 °C    Storage temperature range −65 °C to +150 °C
