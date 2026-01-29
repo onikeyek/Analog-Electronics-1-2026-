@@ -23,7 +23,7 @@ The diode can operate reliably across a wide temperature range, making it suitab
 The 1N4148 diode is widely used in high-speed switching and signal processing applications, such as logic circuits and signal clamping, because of its fast switching capability.
 
 
-**Datasheet:**https://www.vishay.com/docs/81857/1n4148.pdf
+**Datasheet:** https://www.vishay.com/docs/81857/1n4148.pdf
 
 # Author 
 **Name:** Naimot Yekini
