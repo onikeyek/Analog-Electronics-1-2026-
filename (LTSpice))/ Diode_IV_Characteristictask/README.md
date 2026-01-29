@@ -1,4 +1,4 @@
-## Diode I–V Characteristic using LTspice
+##  DC Sweep (Diode I–V) using LTspice
 
 **Name:** Naimot Yekini
 
